@@ -53,19 +53,22 @@ El sistema utiliza **MariaDB** como gestor principal, con las siguientes tablas 
 ## 📂 Estructura del proyecto Django
 
 SoftDip/
-│── manage.py
-│── SoftDip/ ## Configuración principal de Django
-│── oficios/ # Aplicación principal
-│ ├── models.py # Tablas de la base de datos
-│ ├── views.py # Lógica del sistema
-│ ├── templates/ # Vistas HTML
-│ ├── urls.py # Rutas
-│── static/ # Archivos CSS, JS e imágenes
-│── media/ # PDFs de oficios y respuestas
+-`manage.py/`
+- `SoftDip/`: Configuración principal de Django
+- ` oficios/`: Aplicación principal
+- `models.py/ `:  Tablas de la base de datos
+- `views.py/`: Lógica del sistema
+- `templates/`: Vistas HTML
+- `urls.py/`: Rutas
+- `static/`: Archivos CSS, JS e imágenes
+- `media/` : PDFs de oficios y respuestas
 
-📹 Video explicativo
+---
 
+## 📹 Video explicativo
 🎥 Puedes revisar el video completo de instalación, uso y recorrido de la aplicación **aquí**: **https://youtu.be/UyoBF1uiQ7c**
+
+---
 
 ## 📑 Documentación adicional
 
