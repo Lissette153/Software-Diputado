@@ -37,6 +37,7 @@ Este repositorio incluye:
 - 📥 **Carga múltiple de PDFs de respuesta** por oficio  
 - 🤖 **Scraping** para importar datos de fuentes externas y para subir carga de PDF.   
 - 🧮 **Análisis estadístico y correlacional** de oficios y respuestas
+- 👥 **Gestión de usuarios**: *Permite gestionar usuarios, visualización, eliminación y modificación de estos*
 
 ---
 
@@ -67,6 +68,7 @@ SoftDip/
 
 ## 📹 Video explicativo
 🎥 Puedes revisar el video de uso y recorrido de la aplicación **aquí**: **https://youtu.be/UyoBF1uiQ7c**
+🎥 Puedes revisar el video de instalación, ejecución y guía **aquí**: **https://youtu.be/-6hMNb5nUqU**
 
 ---
 
