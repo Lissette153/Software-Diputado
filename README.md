@@ -66,7 +66,7 @@ SoftDip/
 ---
 
 ## 📹 Video explicativo
-🎥 Puedes revisar el video completo de instalación, uso y recorrido de la aplicación **aquí**: **https://youtu.be/UyoBF1uiQ7c**
+🎥 Puedes revisar el video de uso y recorrido de la aplicación **aquí**: **https://youtu.be/UyoBF1uiQ7c**
 
 ---
 
@@ -76,5 +76,8 @@ SoftDip/
   **Manual de usuario**: guía paso a paso con capturas sobre cómo utilizar la aplicación.
   **Guía de instalación**: detallada para entornos con XAMPP, MariaDB y MySQL Workbench.
 
+  
+## IMPORTANTE:
+Para obtener los pdf de archivos se debe crear la carpeta 'media', dentro de esta, crear 'documentos' y 'respuestas_pdf'. Ya que el archivo es muy grande el de media y contiene muchos pdf. Para obtener todos los pdf de los oficios se debe ejecutar 'scraping.py',  también debe descargar manualmente las respuestas de oficio en 'respuestas_pdf' y ejecutar 'importar_pdf.py'
 
 
